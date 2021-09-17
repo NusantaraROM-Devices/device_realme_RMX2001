@@ -13,10 +13,10 @@
     },
     {
         "remote": "github",
-        "repository": "officialputuid/android_kernel_realme_RMX2001",
+        "repository": "SamarV-121/android_kernel_realme_RMX2001",
         "target_path": "kernel/realme/RMX2001",
         "clone-depth": "1",
-        "branch": "11"
+        "branch": "lineage-18.1"
     },
     {
         "remote": "github",
